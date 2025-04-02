@@ -91,7 +91,7 @@ const Dashboard = () => {
                         </div>
 
                     </div>
-                    <div className="col-md-4 pl-0">
+                    {/* <div className="col-md-4 pl-0">
                         <div className="box graphBox">
                             <div className="d-flex align-item-center w-100 bottomEle">
                                 <h4 className="text-white mb-0 mt-0">Sales Compresion</h4>
@@ -142,7 +142,7 @@ const Dashboard = () => {
                             />
 
                         </div>
-                    </div>
+                    </div> */}
 
 
                 </div>
